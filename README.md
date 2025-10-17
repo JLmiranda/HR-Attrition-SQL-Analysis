@@ -6,13 +6,7 @@ It’s a hands-on project that takes a raw HR dataset and turns it into meaningf
 The dataset includes employee details such as:
 
 Age, gender, and education field
-
 Department and job role
-
 Monthly income, total working years, and years at the company
-
 Satisfaction ratings (job, environment, work-life balance)
-
 Whether the employee left the company (Attrition = Yes or No)
-
-My goal was to go beyond simple counts and actually tell a story with the data — finding patterns, ranking job roles, and uncovering the main reasons behind employee attrition.
